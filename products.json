@@ -1,0 +1,123 @@
+[
+ {
+    "slug": "obscura-lapis",
+    "name": "Obscura Lapis",
+    "type": "savon purifiant",
+    "price": 12,
+    "image": "assets/products/obscura-lapis.jpg",
+    "shortDesc": "Charbon activé, argile verte – mousse dense, fini mat.",
+    "longDesc": "Savon purifiant pour peaux grasses et mixtes. Nettoie profondément, absorbe l'excès de sébum et laisse la peau nette sans tiraillement.",
+    "howTo": ["Faire mousser 30–60 s sur peau humide.", "Rincer abondamment."]
+  },
+  {
+    "slug": "brise-menthae",
+    "name": "Brise Menthae",
+    "type": "coton tonique",
+    "price": 10,
+    "image": "assets/products/brise-menthae.jpg",
+    "shortDesc": "Menthe poivrée & saule blanc – pores resserrés.",
+    "longDesc": "Tonique rafraîchissant qui resserre les pores, réduit les brillances et clarifie le teint.",
+    "howTo": ["Passer un coton après le nettoyage.", "Ne pas rincer."]
+  },
+  {
+    "slug": "lactea-silis",
+    "name": "Lactéa Silis",
+    "type": "savon lacté",
+    "price": 13,
+    "image": "assets/products/lactea-silis.jpg",
+    "shortDesc": "Lait, avoine, miel – mousse crème ultra douce.",
+    "longDesc": "Savon nourrissant pour peaux sèches et sensibles, apporte confort et douceur dès la première utilisation.",
+    "howTo": ["Faire mousser comme un lait.", "Rincer en douceur."]
+  },
+  {
+    "slug": "voile-de-nectarea",
+    "name": "Voile de Nectaréa",
+    "type": "coton huile lactée",
+    "price": 11,
+    "image": "assets/products/voile-de-nectarea.jpg",
+    "shortDesc": "Amande douce & glycérine – peau satinée.",
+    "longDesc": "Fluide huileux léger qui nourrit sans film gras, apaise et protège les peaux en manque de confort.",
+    "howTo": ["Appliquer au coton après nettoyage.", "Laisser pénétrer."]
+  },
+  {
+    "slug": "flor-de-selene",
+    "name": "Flor de Sélène",
+    "type": "savon apaisant",
+    "price": 12,
+    "image": "assets/products/flor-de-selene.jpg",
+    "shortDesc": "Calendula & camomille – mousse soyeuse.",
+    "longDesc": "Idéal pour peaux sensibles, cleanse sans agresser et calme les rougeurs.",
+    "howTo": ["Masser doucement.", "Rincer à l'eau tiède."]
+  },
+  {
+    "slug": "essence-calmiane",
+    "name": "Essence Calmiane",
+    "type": "coton rosée florale",
+    "price": 10,
+    "image": "assets/products/essence-calmiane.jpg",
+    "shortDesc": "Rose & aloe – teint apaisé instantané.",
+    "longDesc": "Diminue les rougeurs et hydrate délicatement tout en apportant une sensation de calme immédiat.",
+    "howTo": ["Appliquer au coton.", "Ne pas rincer."]
+  },
+  {
+    "slug": "aurea-terra",
+    "name": "Auréa Térra",
+    "type": "savon éclat",
+    "price": 13,
+    "image": "assets/products/aurea-terra.jpg",
+    "shortDesc": "Curcuma & carotte – mousse dorée éclat.",
+    "longDesc": "Illumine le teint, stimule la vitalité de la peau et affine le grain.",
+    "howTo": ["Faire mousser 60 s.", "Rincer."]
+  },
+  {
+    "slug": "lumi-essence",
+    "name": "Lumi Essence",
+    "type": "coton tonique hydratant",
+    "price": 11,
+    "image": "assets/products/lumi-essence.jpg",
+    "shortDesc": "AH végétal & citron – glow immédiat.",
+    "longDesc": "Hydrate, éclaire et aide à lisser les taches légères pour un teint frais.",
+    "howTo": ["Appliquer au coton.", "Laisser absorber."]
+  },
+  {
+    "slug": "ivoria-botan",
+    "name": "Ivoria Botan",
+    "type": "savon lissant",
+    "price": 12,
+    "image": "assets/products/ivoria-botan.jpg",
+    "shortDesc": "Argile blanche & jojoba – pores affinés.",
+    "longDesc": "Savon qui lisse en douceur, floute les irrégularités et laisse la peau douce.",
+    "howTo": ["Utiliser comme un lait.", "Rincer."]
+  },
+  {
+    "slug": "brume-depure",
+    "name": "Brume d’Épure",
+    "type": "coton clarifiant",
+    "price": 10,
+    "image": "assets/products/brume-depure.jpg",
+    "shortDesc": "Romarin & vinaigre doux – peau propre et tonifiée.",
+    "longDesc": "Clarifie, régule et rafraîchit tout en resserrant délicatement les pores.",
+    "howTo": ["Appliquer au coton.", "Ne pas rincer."]
+  },
+  {
+    "slug": "rosae-aura",
+    "name": "Rosæ Aura",
+    "type": "savon éveil",
+    "price": 12,
+    "image": "assets/products/rosae-aura.jpg",
+    "shortDesc": "Hibiscus & grenade – bonne mine rapide.",
+    "longDesc": "Stimule la microcirculation, réveille l'éclat naturel et adoucit.",
+    "howTo": ["Utiliser le matin.", "Rincer."]
+  },
+  {
+    "slug": "voile-celestine",
+    "name": "Voile Célestine",
+    "type": "coton brume éclat",
+    "price": 11,
+    "image": "assets/products/voile-celestine.jpg",
+    "shortDesc": "Fleurs & fruits frais – glow naturel.",
+    "longDesc": "Apporte un éclat rosé, rafraîchit et hydrate légèrement.",
+    "howTo": ["Appliquer ou vaporiser.", "Utiliser en retouches."]
+  }
+]
+

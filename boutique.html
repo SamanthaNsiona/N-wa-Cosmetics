@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boutique – NÜWA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+   <div class="top-banner">
+    <div class="container"><div class="ticker"><span>NEW — Nüwa Clean Glow duo disponible maintenant</span><span> | Livraison offerte dès 60€</span><span> | Formules véganes & cruelty‑free</span></div></div>
+  </div>
+  <header class="header">
+    <div class="container nav">
+      <!-- Utilise un chemin sans espace/accents si possible -->
+      <img src="logonüwa.png" alt="NÜWA" class="logo" />
+      <nav>
+        <ul class="menu">
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="boutique.html" class="active">Boutique</a></li>
+          <li><a href="kits.html">Kits</a></li>
+          <li><a href="a-propos.html">À propos</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-header">
+    <div class="container">
+      <h1>Boutique</h1>
+      <p>Découvrez nos 12 soins du visage haut de gamme.</p>
+    </div>
+  </section>
+
+  <section class="filters container">
+    <div class="filter-group">
+      <label>Type de peau</label>
+      <select id="filter-skin">
+        <option value="all">Tous</option>
+        <option value="seche">Sèche</option>
+        <option value="mixte">Mixte</option>
+        <option value="grasse">Grasse</option>
+        <option value="sensible">Sensible</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label>Besoins</label>
+      <select id="filter-concern">
+        <option value="all">Tous</option>
+        <option value="hydratation">Hydratation</option>
+        <option value="eclat">Éclat</option>
+        <option value="anti-age">Anti-âge</option>
+        <option value="imperfections">Imperfections</option>
+      </select>
+    </div>
+  </section>
+
+  <section class="products container">
+    <div id="products-grid" class="grid-products"></div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <img src="logonüwa.png" class="footer-logo" alt="NÜWA" />
+        <p>Soins de la peau haut de gamme, inspirés par la pureté et la précision.</p>
+      </div>
+      <div>
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="boutique.html">Boutique</a></li>
+          <li><a href="kits.html">Kits</a></li>
+          <li><a href="a-propos.html">À propos</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Informations</h4>
+        <ul>
+          <li><a href="#">Mentions légales</a></li>
+          <li><a href="#">Politique de confidentialité</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="copyright">© 2025 NÜWA. Tous droits réservés.</p>
+  </footer>
+
+  <!-- Important: defer -->
+  <script defer src="script.js"></script>
+</body>
+</html>

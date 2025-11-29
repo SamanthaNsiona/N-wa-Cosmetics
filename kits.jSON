@@ -1,0 +1,81 @@
+[
+
+  {
+    "slug": "kit-obscura-menthae",
+    "name": "Obscura Lapis & Brise Menthae",
+    "price": 34,
+    "image": "assets/kits/obscura-menthae.jpg",
+    "shortDesc": "Rituel Purifier – charbon, argile verte & menthe fraîche.",
+    "longDesc": "Un duo pensé pour les peaux grasses et mixtes à imperfections : le savon Obscura Lapis purifie et matifie sans agresser tandis que les cotons Brise Menthae resserrent les pores et rafraîchissent intensément.",
+    "products": ["Obscura Lapis (savon purifiant)", "Brise Menthae (coton tonique)"],
+    "howTo": [
+      "Matin/soir : faire mousser Obscura Lapis sur peau humide puis rincer.",
+      "Passer un coton Brise Menthae pour tonifier et clarifier."
+    ]
+  },
+  {
+    "slug": "kit-lactea-nectarea",
+    "name": "Lactéa Silis & Voile de Nectaréa",
+    "price": 36,
+    "image": "assets/kits/lactea-nectarea.jpg",
+    "shortDesc": "Rituel Nourrir – lait, avoine, miel & amande douce.",
+    "longDesc": "Confort absolu pour peaux sèches et sensibles : Lactéa Silis dépose une mousse crème lactée qui apaise et adoucit ; Voile de Nectaréa nourrit et protège sans film gras.",
+    "products": ["Lactéa Silis (savon lacté)", "Voile de Nectaréa (coton huile lactée)"] ,
+    "howTo": [
+      "Nettoyer avec Lactéa Silis, rincer comme un lait.",
+      "Appliquer Voile de Nectaréa au coton pour sceller l'hydratation."
+    ]
+  },
+  {
+    "slug": "kit-selene-calmiane",
+    "name": "Flor de Sélène & Essence Calmiane",
+    "price": 35,
+    "image": "assets/kits/selene-calmiane.jpg",
+    "shortDesc": "Rituel Apaiser – calendula, camomille bleue & rose douce.",
+    "longDesc": "Idéal pour peaux réactives et échauffées : Flor de Sélène nettoie sans décaper, Essence Calmiane réduit les rougeurs et réhydrate délicatement.",
+    "products": ["Flor de Sélène (savon apaisant)", "Essence Calmiane (coton rosée florale)"] ,
+    "howTo": [
+      "Masser Flor de Sélène sur peau humide puis rincer à l'eau tiède.",
+      "Appliquer Essence Calmiane au coton, sans rincer."
+    ]
+  },
+  {
+    "slug": "kit-aurea-lumi",
+    "name": "Auréa Térra & Lumi Essence",
+    "price": 35,
+    "image": "assets/kits/aurea-lumi.jpg",
+    "shortDesc": "Rituel Unifier – curcuma, carotte & citron lumineux.",
+    "longDesc": "Pour réveiller l'éclat et flouter les taches légères : la mousse dorée d'Auréa Térra dynamise le teint, Lumi Essence apporte un glow immédiat.",
+    "products": ["Auréa Térra (savon éclat)", "Lumi Essence (coton tonique hydratant)"] ,
+    "howTo": [
+      "Nettoyer avec Auréa Térra 60 s, rincer.",
+      "Passer Lumi Essence pour lisser et illuminer."
+    ]
+  },
+  {
+    "slug": "kit-ivoria-epure",
+    "name": "Ivoria Botan & Brume d’Épure",
+    "price": 33,
+    "image": "assets/kits/ivoria-epure.jpg",
+    "shortDesc": "Rituel Lisser – argile blanche, jojoba & romarin clarifiant.",
+    "longDesc": "Affinage du grain et pores resserrés : Ivoria Botan lisse en douceur, Brume d’Épure tonifie et régule sans agresser.",
+    "products": ["Ivoria Botan (savon lissant)", "Brume d’Épure (coton clarifiant)"] ,
+    "howTo": [
+      "Utiliser Ivoria Botan, rincer comme un lait.",
+      "Appliquer Brume d’Épure au coton sur l'ensemble du visage."
+    ]
+  },
+  {
+    "slug": "kit-rosae-celestine",
+    "name": "Rosæ Aura & Voile Célestine",
+    "price": 34,
+    "image": "assets/kits/rosae-celestine.jpg",
+    "shortDesc": "Rituel Éveiller – hibiscus, grenade & ylang-ylang.",
+    "longDesc": "Coup d'éclat quotidien : Rosæ Aura stimule et adoucit, Voile Célestine rafraîchit et dépose une lumière rosée naturelle.",
+    "products": ["Rosæ Aura (savon éveil)", "Voile Célestine (coton brume éclat)"] ,
+    "howTo": [
+      "Nettoyer avec Rosæ Aura le matin.",
+      "Vaporiser/Passer Voile Célestine en retouches d'éclat."
+    ]
+  }
+]
